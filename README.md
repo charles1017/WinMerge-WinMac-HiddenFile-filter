@@ -3,7 +3,7 @@ This filter is intended to filter out the "hidden" file created by Windows or Ma
 
 This filter exclude:
 - Thumbs.db
-- Desktop.ini
+- desktop.ini
 - ._.DS_Store
 - All file start with ._ (e.g. ._YoureBeautiful.jpg ; ._RickRoll.avi)
 

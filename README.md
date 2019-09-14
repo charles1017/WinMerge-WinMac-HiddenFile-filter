@@ -1,4 +1,4 @@
-# Winmerge-Windows-Mac-thumbnail-filter
+# WinMerge-WinMac-HiddenFile-filter
 This filter is intended to filter out the "hidden" file created by Windows or Mac OS while you wish to use WinMerge to compare your files for e.g. manual syncing 2 directory
 
 This filter exclude:

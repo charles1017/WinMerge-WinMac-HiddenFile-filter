@@ -5,7 +5,7 @@ This filter exclude:
 - Thumbs.db
 - Desktop.ini
 - ._.DS_Store
-- All file start with ._ (e.g. ._YoureBeautiful.jpg, ._RickRoll.avi)
+- All file start with ._ (e.g. ._YoureBeautiful.jpg ; ._RickRoll.avi)
 
 ## Note
 This is my first project, it is not rigourously tested, please use with caution!

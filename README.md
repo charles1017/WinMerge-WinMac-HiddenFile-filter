@@ -1,0 +1,1 @@
+# Winmerge-Windows-Mac-thumbnail-filter
